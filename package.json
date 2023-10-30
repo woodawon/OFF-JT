@@ -1,0 +1,10 @@
+{
+    "name": "socket-chat-example",
+    "version": "0.0.1",
+    "description": "my first socket.io app",
+    "_comment" : " * 주석 * dependencies --> express, socket.io 등의 두 개의 패키지(library)를 사용함을 의미함",
+    "dependencies": { 
+      "express": "^4.14.0",
+      "socket.io": "^4.1.2"
+    }
+}
